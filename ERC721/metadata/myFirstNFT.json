@@ -1,9 +1,9 @@
 
 {
-    "name": "My First NFT",
+    "name": "Boruto",
     "description": "My Exclusive NFT ",
-    "symbol": "NFT",
-    "image": "https://i.imgur.com/B0tguV7.jpeg",
+    "symbol": "BRT",
+    "image": "https://i.imgur.com/dfoGDN6.jpeg",
     "attributes": [
         {
             "trait_type": "Background",
